@@ -1,0 +1,6 @@
+README.md
+setup.py
+chemEPy_Jacob_Moxley.egg-info/PKG-INFO
+chemEPy_Jacob_Moxley.egg-info/SOURCES.txt
+chemEPy_Jacob_Moxley.egg-info/dependency_links.txt
+chemEPy_Jacob_Moxley.egg-info/top_level.txt

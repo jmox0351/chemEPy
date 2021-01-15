@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: chemEPy-Jacob-Moxley
+Version: 0.0.1
+Summary: A package for chemical engineering
+Home-page: https://github.com/jmox0351/chemEPy
+Author: Jacob Moxley
+Author-email: jacob.moxley@colorado.edu
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown

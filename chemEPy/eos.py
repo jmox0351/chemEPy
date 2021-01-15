@@ -6,8 +6,11 @@ import pkg_resources
 vdwDf = pd.read_csv(pkg_resources.resource_filename(__name__, 'data/vdw.csv'))
 afDf = pd.read_csv(pkg_resources.resource_filename(__name__, 'data/acentricFactor.csv'))
 
-def vdwUnits():
+def vdwInfo():
     print('a = bar*L^2/mol^2 and b = L/mol, std R is 0.08314 L*Bar*K^-1*mol^-1')
+    
+def idealGasInfo():
+    print('solves for any of 4 unknowns P,V,n,T units are agnostic')
 
 def idealGas(**kwargs):
     try:

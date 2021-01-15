@@ -1,0 +1,4 @@
+need to understand if we are better of working this as a series of objects with functions or building it as a set of submodules.
+For the eos I think the move is to build a submodule and then include the table reads in init method
+
+general ideas for now are steam, and a handful of other physical props, equations, heat transfer correlations

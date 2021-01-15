@@ -1,0 +1,227 @@
+"equation", "name", "a", "b"
+"AlCl3","Aluminum trichloride",42.63,0.245
+"NH3","Ammonia",4.225,0.03713
+"NH4Cl","Ammonium chloride",2.38,0.00734
+"Ar","Argon",1.355,0.03201
+"BCl3","Boron trichloride",15.6,0.1222
+"BF3","Boron trifluoride",3.98,0.05443
+"B2H6","Diborane",6.048,0.07437
+"Br2","Bromine",9.75,0.0591
+"ClFO2","Perchloryl fluoride",7.371,0.0713
+"ClF5","Chlorine pentafluoride",9.58,0.08204
+"ClH4P","Phosphonium chloride",4.111,0.04545
+"Cl2","Chlorine",6.343,0.05422
+"Cl3FSi","Trichlorofluorosilane",15.67,0.1273
+"F2","Fluorine",1.171,0.02896
+"GeCl4","Germanium tetrachloride",23.12,0.1489
+"F3N","Nitrogen trifluoride",3.58,0.05453
+"F3P","Phosphorus trifluoride",4.954,0.0651
+"F4N2","Tetrafluorohydrazine",7.426,0.08564
+"GeH4","Germane",5.743,0.06555
+"He","Helium",0.0346,0.0238
+"HBr","Hydrogen bromide",4.5,0.04415
+"HCl","Hydrogen chloride",3.7,0.04061
+"HCN","Hydrogen cyanide",11.29,0.08806
+"HF","Hydrogen fluoride",9.565,0.0739
+"HI","Hydrogen iodide",6.309,0.05303
+"H2","Hydrogen",0.2453,0.02651
+"H2O","Water",5.537,0.03049
+"H2S","Hydrogen sulphide",4.544,0.04339
+"H2Se","Hydrogen selenide",5.523,0.0479
+"Kr","Krypton",2.325,0.0396
+"SiH4","Silane",4.38,0.0579
+"SiCl4","Silicon tetrachloride",20.96,0.147
+"SiF4","Silicon tetrafluoride",5.259,0.07236
+"TiCl4","Titanium(IV) chloride",25.47,0.1423
+"Hg","Mercury",5.193,0.01057
+"NO","Nitric oxide",1.46,0.0289
+"NO2","Nitrogen dioxide",5.36,0.0443
+"N2","Nitrogen",1.37,0.0387
+"N2O","Nitrous oxide",3.852,0.04435
+"N2H4","Hydrazine",8.46,0.0462
+"Ne","Neon",0.208,0.01672
+"O2","Oxygen",1.382,0.03186
+"O3","Ozone",3.57,0.0487
+"P","Phosphorus",53.6,0.157
+"PH3","Phosphine",4.696,0.05157
+"Rn","Radon",6.601,0.06239
+"SnCl4","Stannic chloride",27.25,0.1641
+"S","Sulphur",24.3,0.066
+"SO2","Sulphur dioxide",6.865,0.05679
+"SF6","Sulphur hexafluoride",7.857,0.08786
+"Se","Selenium",33.4,0.0675
+"UF6","Uranium(VI) fluoride",16.01,0.1128
+"WF6","Tungsten(VI) fluoride",13.25,0.1063
+"Xe","Xenon",4.192,0.05156
+"XeF2","Xenon difluoride",12.46,0.07037
+"XeF4","Xenon  tetrafluoride",15.52,0.09035
+"CClF3","Chlorotrifluoromethane",6.873,0.0811
+"CCl3F","Trichlorofluoromethane",14.68,0.1111
+"CCl4","Tetrachloromethane",20.01,0.1281
+"CF4","Tetrafluoromethane",4.04,0.06325
+"CO","Carbon monoxide",1.472,0.03948
+"COS","Carbon oxysulphide",6.975,0.06628
+"CO2","Carbon dioxide",3.658,0.04286
+"CS2","Carbon disulphide",11.25,0.07262
+"CHCl3","Trichloromethane",15.34,0.1019
+"CHF3","Trifluoromethane",5.378,0.06403
+"CH2Cl2","Dichloromethane",12.44,0.08689
+"CH2F2","Difluoromethane",6.184,0.06268
+"CH3Cl","Chloromethane",7.566,0.06477
+"CH3F","Fluoromethane",5.009,0.05617
+"NH3NO2","Nitromethane",17.18,0.1041
+"CH4","Methane",2.3,0.04301
+"CH3OH","Methanol",9.472,0.06584
+"CH3SH","Methanethiol",8.911,0.06756
+"CH3NH2","Methylamine",7.106,0.05879
+"C2Cl2F3","1,1,2-Trichlorotrifluoroethane",20.25,0.1481
+"C2F4","Tetrafluoroethylene",6.954,0.08085
+"C2N2","Cyanogen",7.803,0.6952
+"C2H2","Acetylene",4.516,0.0522
+"C2H2F2","1,1-Difluoroethylene",6,0.07058
+"C2H3Cl3","1,1,1-Trichloroethane",20.15,0.1317
+"C2H3F","Fluroethylene",5.984,0.06504
+"C2H3F3","1,1,1-Trifluoroethane",9.302,0.09572
+"C2H3N","Acetonitrile",17.89,0.1169
+"C2H4","Ethylene",4.612,0.05821
+"C2H4Cl2","1,1-Dichloroethane",15.73,0.1072
+"C2H4Cl2","1,2-Dichloroethane",17,0.108
+"C2H4O","Ethylene oxide",8.922,0.06779
+"CH3COOH","Acetic acid",17.71,0.1065
+"C2H4O2","Methyl formate",11.54,0.08442
+"C2H5Br","Bromoethane",11.89,0.08406
+"C2H5Cl","Chloroethane",11.7,0.09
+"C2H5F","Fluoroethane",8.17,0.07758
+"C2H6","Ethane",5.57,0.06499
+"C2H6O","Dimethyl ether",8.69,0.07742
+"C2H5OH","Ethanol",12.56,0.0871
+"C2H5SH","Dimethyl sulphide",13.34,0.09453
+"C2H5SH","Ethanethiol",13.23,0.09447
+"C2H7N","Dimethylamine",10.44,0.0851
+"C2H7N","Ethylamine",10.79,0.08433
+"C3F8","Perfluoropropane",12.96,0.1338
+"C3H5N","Propanenitrile",21.57,0.1369
+"C3H6","Propene",8.438,0.08242
+"C3H6","Cyclopropane",8.293,0.0742
+"C3H6O","Acetone",16.02,0.1124
+"C3H6O","Propanal",14.08,0.09947
+"C3H6O2","Ethyl formate",15.91,0.1115
+"C3H6O2","Methyl acetate",15.75,0.1108
+"C3H6O2","Propanoic acid",23.49,0.1386
+"C3H7Cl","1-Chloropropane",16.11,0.1141
+"C3H8","Propane",9.385,0.09044
+"C3H8O","1-Propanol",16.26,0.108
+"C3H8O","2-Propanol",15.82,0.1109
+"C3H8O","Ethyl methyl ether",12.7,0.1034
+"C3H8S","Ethyl methyl sulphide",19.45,0.13
+"C3H9N","Propylamine",15.26,0.1094
+"C3H9N","Trimethylamine",13.37,0.1101
+"C4H4O","Furan",12.74,0.0926
+"C4H4S","Thiophene",17.21,0.1058
+"C4H4N","Pyrrole",18.82,0.1049
+"C4H6","1,3-Butadiene",12.17,0.102
+"C4H6O3","Acetic anhydride",26.8,0.157
+"C4H7N","Butanenitrile",25.76,0.1568
+"C4H8","1-Butene",12.76,0.1084
+"C4H8","Cyclobutane",12.39,0.096
+"C4H8O","2-Butanone",19.97,0.1326
+"C4H8O","Tetrahydrofuran",16.39,0.1082
+"C4H8O2","1,4-Dioxane",19.29,0.1171
+"C4H8O2","Ethyl acetate",20.57,0.1401
+"C4H8O2","Methyl propanoate",20.51,0.1377
+"C4H8O2","Propyl formate",20.79,0.1377
+"C4H8O2","Butanoic acid",28.18,0.1609
+"C4H9N","Pyrrolidine",16.84,0.1056
+"C4H10","Butane",13.93,0.1168
+"C4H10","Isobutane",13.36,0.1168
+"C4H10O","1-Butanol",20.9,0.1323
+"C4H10O","2-Methyl-2-propanol",18.81,0.1324
+"C4H10O","2-Methyl-1-propanol",20.35,0.1324
+"C4H10O","Diethyl ether",17.46,0.1333
+"C4H10S","Diethyl sulphide",22.85,0.1462
+"C4H11N","Butylamine",19.41,0.1301
+"C4H11N","Diethylamine",19.4,0.1383
+"C4H12Si","Tetramethylsilane",20.81,0.1653
+"C5H4O2","Furfural",22.23,0.1182
+"C5H5N","Pyridine",19.77,0.1137
+"C5H8","Cyclopentene",15.61,0.1097
+"C5H10","1-Pentene",17.86,0.137
+"C5H10","2-Methyl-1-butene",16.9,0.129
+"C5H10","2-Methyl-2-butene",17.26,0.1279
+"C5H10","Cyclopentane",16.94,0.118
+"C5H10O","Tetrahydropyran",20.02,0.1247
+"C5H10O2","Isobutyl formate",22.82,0.1476
+"C5H10O2","Propyl acetate",26.23,0.17
+"C5H10O2","Ethyl propanoate",25.86,0.1688
+"C5H10O2","Methyl butanoate",25.83,0.1661
+"C5H10O2","Methyl isobutanoate",24.87,0.1639
+"C5H11N","Piperidine",20.84,0.125
+"C5H12","Pentane",19.13,0.1451
+"C5H12","Isopentane",18.29,0.1415
+"C5H12","Neopentane",17.17,0.141
+"C5H12O","1-Pentanol",25.81,0.1564
+"C6H5Br","Bromobenzene",28.96,0.1541
+"C6H5Cl","Chlorobenzene",25.8,0.1454
+"C6H5F","Fluorobenzene",20.1,0.1279
+"C6H5I","Iodobenzene",33.54,0.1658
+"C6H6","Benzene",18.82,0.1193
+"C6H5OH","Phenol",22.93,0.1177
+"C6H5NH2","Aniline",29.14,0.1486
+"C6H10O","Cyclohexanone",31.1,0.17
+"C6H11N","Hexanenitrile",35.5,0.1996
+"C6H12","Cyclohexane",21.95,0.1413
+"C6H11OH","Cyclohexanol",28.93,0.1586
+"C6H12O2","Pentyl formate",27.97,0.173
+"C6H12O2","Isobutyl acetate",29.05,0.1845
+"C6H12O2","Ethyl butanoate",30.53,0.1922
+"C6H12O2","Ethyl 2-methylpropanoate",29.05,0.1872
+"C6H12O2","Methyl pentanoate",29.39,0.1847
+"C6H14","Hexane",24.97,0.1753
+"C6H14","2,3-Dimethylbutane",23.29,0.166
+"C6H14O","1-Hexanol",31.35,0.1829
+"C6H15N","Triethylamine",27.59,0.1836
+"C6H15N","Dipropylamine",24.82,0.1591
+"C7H5N","Benzonitrile",33.89,0.1727
+"C7H6O","Benzaldehyde",30.3,0.1553
+"C7H8","Toluene",24.89,0.1499
+"C7H8O","o-Cresol",28.33,0.1447
+"C7H8O","m-Cresol",31.86,0.1609
+"C7H8O","p-Cresol",28.11,0.1422
+"C7H8O","Benzyl alcohol",34.7,0.173
+"C7H8O","Anisole",28.6,0.1579
+"C7H16","Heptane",30.89,0.2038
+"C7H15OH","Heptanol",37.22,0.2097
+"C8H10","Ethylbenzene",30.86,0.1782
+"C8H10","o-Xylene",31.06,0.1756
+"C8H10","m-Xylene",31.41,0.1814
+"C8H10","p-Xylene",31.54,0.1824
+"C8H10O","Phenetole",35.7,0.1966
+"C8H11N","N,N-Dimethylaniline",37.92,0.1967
+"C8H18","Octane",37.86,0.2372
+"C8H18","2,5-Dimethylhexane",35.49,0.2299
+"C8H18O","1-Octanol",43.42,0.2371
+"C9H7N","Quinoline",36.7,0.1672
+"C9H12","Cumene",36.2,0.2044
+"C9H12","Propylbenzene",37.14,0.2073
+"C9H12","1,2,4-Trimethylbenzene",38.03,0.2088
+"C9H12","Mesitylene",37.87,0.2118
+"C9H20","Nonane",45.11,0.2702
+"C9H20O","1-Nonanol",50,0.2654
+"C10H8","Naphthalene",40.32,0.192
+"C10H14","Butylbenzene",44.07,0.2378
+"C10H14","Isobutylbenzene",40.4,0.2215
+"C10H14","o-Cymene",42.7,0.234
+"C10H14","p-Cymene",45.27,0.2478
+"C10H14","p-Diethylbenzene",45.03,0.2439
+"C10H14","1,2,4,5-Tetramethylbenzene",45.8,0.24
+"C10H22","Decane",52.88,0.3051
+"C10H22O","1-Decanol",57.45,0.2971
+"C11H24","Undecane",60.88,0.3396
+"C12H10","Biphenyl",47.16,0.213
+"C12H26","Dodecane",69.14,0.3741
+"C12H26O","1-Dodecanol",72.69,0.3598
+"C13H12","Diphenylmethane",60.46,0.2798
+"C13H28","Tridecane",77.94,0.4109
+"C13H28O","1-Tridecanol",81.2,0.3942
+"C14H30O","1-Tetradecanol",89.91,0.4289
+"C15H32","Pentadecane",96.5,0.4857

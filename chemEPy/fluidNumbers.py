@@ -27,8 +27,7 @@ def grashoff(**kwargs):
         return(kwargs['g']*kwargs['beta']*(kwargs['Ts']-kwargs['Tinf'])*kwargs['L']**3/kwargs['nu']**2)
 
 def grashoffInfo():
-    print('arguments are g(m/s^2), Ts(K), Tinf(K), L(m), nu(m^2/s), idealGas=True OR g(m/s^2), beta(K^-1), Ts(K), Tinf(K),'
-    ' L(m), nu(m^2/s), idealGas=False')
+    print('arguments are g, Ts, Tinf, L, nu, idealGas=True OR g, beta, Ts, Tinf, L, nu, idealGas=False')
 
 def nusselt(**kwargs):
     return(kwargs['h']*kwargs['k']/kwargs['L'])

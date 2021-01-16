@@ -86,3 +86,9 @@ def thermalDiffusivity(**kwargs):
 
 def thermalDiffusivityInfo():
     print('arguments are k, rho, cp')
+
+def archimedes(**kwargs):
+    return(kwargs['g']*kwargs['L']**3*kwargs['rhoL']*(kwargs['rhoB']-kwargs['rhoL'])/kwargs['mu']**2)
+
+def archimedesInfo():
+    print('arguments are g, L, rhoL, rhoB, mu')

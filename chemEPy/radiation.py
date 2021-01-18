@@ -1,4 +1,5 @@
 def q(**kwargs):
+    sigma = 0
     try:
         imperial = kwargs['imperial']
         if(imperial):
@@ -35,7 +36,7 @@ def q(**kwargs):
     elif((body1 == 'black' and body2 == 'grey') or (body1 == 'grey' and body2 == 'black')):
         return(a*ep1*sigma*(t1**4-t2**4))
     else:
-        return(a * compositeVF(f, ep1, ep2, a, a2) * simga * (t1**4-t2**4))
+        return(a * compositeVF(f, ep1, ep2, a, a2) * sigma * (t1**4-t2**4))
 
 def compositeVF(f, ep1, ep2, a1, a2):
     return(1/(1/f + 1/ep1 - 1 + a1/a2 * (1/ep2-1)))

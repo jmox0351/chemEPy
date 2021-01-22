@@ -33,7 +33,11 @@ class rectangle:
         self.pt3 = pt3
         self.pt4 = pt4
 
-        self.planeEq = lambda x,y,z: a*x + b*y + c*z == d
+        normal = np.cross(pt2-pt1, pt3-pt1)
+        d = np.dot(normal, pt1)
+
+        self.planeEq = lambda x,y,z: normal[0]*x + normal[1]*y + normal[2]*z == d
+        #this is the equation for the plane that this rectangle sits in and will allow us to set up which surfaces are adjacent
 
 class rectPrism:
     def __init__(self, blf, trr):
@@ -56,15 +60,13 @@ class rectPrism:
         face6 = rectangle(pt1 = A, pt2 = D, pt3 = E, pt4 = H)
 
         self.sides = [face1, face2, face3, face4, face5, face6]
-        self.neighbors = []
-
-    def updateNeighbors(self, new):
-        for n in new:
-            self.neighbors.append(n)
 
 class layer:
     def __init__(self, **kwargs):
-        self.
+        self.k = kwargs['k'] #W/mK
+        self.ss = kwargs['ss'] #bool
+        self.generation = kwargs['generation'] #W/m^3
+        self.geometey = kwargs['geometery'] #for now just rectangular prism, will add pipes, spheres, and fins
 
 class model:
     def __init__(self, cords, dim):
@@ -72,5 +74,6 @@ class model:
         self.dim = dim
         self.layers = []
         self.allSS = True
+        self.bc = []
 
-    def addLayer(self, **kwargs):
+    #TODO add functions addLayer, compile, timeStep, plotProfile

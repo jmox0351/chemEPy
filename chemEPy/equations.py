@@ -29,7 +29,7 @@ def antoine(**kwargs):
         if(len(info) == 0):
             return('name not found see antoineNames for names and temperature ranges')
         else:
-            return(-1*info[2]/(math.log10(kwargs['P'] - info[1]) - info[3]))
+            return(-1*info[2]/(math.log10(kwargs['P'])-info[1]) - info[3])
 
 def antoineNames():
     for index, row in antDf.iterrows():
